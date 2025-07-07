@@ -2,7 +2,7 @@
 title: "NotebookLMにURL追加するのを自動化したけど早速いらなくなりそう"
 emoji: "🐙"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["NotebookLM", "Playwright", "TypeScript"]
+topics: ["NotebookLM", "Playwright", "TypeScript", "Gemini", "AI", "LLM"]
 published: false
 ---
 NotebookLMの登場以降、自分が知らないフレームワークやライブラリに対する学習速度が劇的に向上しました。
